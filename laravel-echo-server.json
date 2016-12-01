@@ -1,0 +1,19 @@
+{
+	"appKey": "olmrul9nj7g3ru9gruqermrd4re2795gjusj16t2pfe36nmgohgfd83nn9jc",
+	"authHost": "blog.dev",
+	"authEndpoint": "/broadcasting/auth",
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": false,
+	"host": "",
+	"port": "6001",
+	"referrers": [],
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": ""
+}
